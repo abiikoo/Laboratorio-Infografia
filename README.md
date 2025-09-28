@@ -31,58 +31,58 @@ Las tecnologías detectadas fueron sectorizadas y agrupadas en las siguientes ca
 
 Tecnologías más comunes encontradas:
 
-Servicios externos: Google Tag Manager, Cloudflare (CDN), OneTrust (gestión de cookies), New Relic (monitoreo).
+- Servicios externos: Google Tag Manager, Cloudflare (CDN), OneTrust (gestión de cookies), New Relic (monitoreo).
 
-Backend: PHP, MySQL, WordPress (VIP/Multisite), Vue.js Engine, MinIO, HTTP/3.
+- Backend: PHP, MySQL, WordPress (VIP/Multisite), Vue.js Engine, MinIO, HTTP/3.
 
-Seguridad: HSTS, Cloudflare (protección DDoS), reCAPTCHA, cabeceras de seguridad (X-Frame-Options, X-Content-Type-Options).
+- Seguridad: HSTS, Cloudflare (protección DDoS), reCAPTCHA, cabeceras de seguridad (X-Frame-Options, X-Content-Type-Options).
 
-Frontend: jQuery, AMP, Bootstrap, Lodash, Lightbox, Open Graph, Google Font API.
+- Frontend: jQuery, AMP, Bootstrap, Lodash, Lightbox, Open Graph, Google Font API.
 
-CMS: WordPress (con plugins como Yoast SEO y Web Stories).
+- CMS: WordPress (con plugins como Yoast SEO y Web Stories).
 
 
 ## Sector Educación
 
 Tecnologías más comunes encontradas:
 
-Servicios externos: Google Tag Manager, Google Analytics, Amazon Ads, Webtrends, CDNs (Fastly, Cloudflare).
+- Servicios externos: Google Tag Manager, Google Analytics, Amazon Ads, Webtrends, CDNs (Fastly, Cloudflare).
 
-Backend: ASP.NET, Windows Server, IIS, PHP, MariaDB, Next.js, React, Ruby on Rails.
+- Backend: ASP.NET, Windows Server, IIS, PHP, MariaDB, Next.js, React, Ruby on Rails.
 
-Seguridad: HSTS, reCAPTCHA, X-Content-Type-Options, X-XSS-Protection.
+- Seguridad: HSTS, reCAPTCHA, X-Content-Type-Options, X-XSS-Protection.
 
-Frontend: jQuery, Lodash, Open Graph, librerías visuales.
+- Frontend: jQuery, Lodash, Open Graph, librerías visuales.
 
-CMS: Drupal.
+- CMS: Drupal.
 
 ## Sector E-Commerce
 
 Tecnologías más comunes encontradas:
 
-Servicios externos: Amazon Web Services (PaaS), Akamai (CDN), Amazon CloudFront, PayPal, Google Analytics, Google Tag Manager, Facebook Pixel.
+- Servicios externos: Amazon Web Services (PaaS), Akamai (CDN), Amazon CloudFront, PayPal, Google Analytics, Google Tag Manager, Facebook Pixel.
 
-Backend: Node.js, Shopify, AWS, PHP, Marko (framework UI).
+- Backend: Node.js, Shopify, AWS, PHP, Marko (framework UI).
 
-Seguridad: SSL/TLS (DigiCert, Sectigo), HSTS, Cloudflare, reCAPTCHA, Akamai Bot Manager.
+- Seguridad: SSL/TLS (DigiCert, Sectigo), HSTS, Cloudflare, reCAPTCHA, Akamai Bot Manager.
 
-Frontend: jQuery, PWA, Animate.css, Open Graph, AOS, Parallax.js, SweetAlert2.
+- Frontend: jQuery, PWA, Animate.css, Open Graph, AOS, Parallax.js, SweetAlert2.
 
-CMS: Shopify.
+- CMS: Shopify.
 
 ## Sector Banca y Finanzas
 
 Tecnologías más comunes encontradas:
 
-Servicios externos: Google Analytics, Facebook Pixel, TikTok Pixel, Crazy Egg (mapas de calor), WhatsApp Business Chat.
+- Servicios externos: Google Analytics, Facebook Pixel, TikTok Pixel, Crazy Egg (mapas de calor), WhatsApp Business Chat.
 
-Backend: Microsoft Azure / Azure Front Door, PHP, MySQL, Volt-ADC (proxy), Envoy.
+- Backend: Microsoft Azure / Azure Front Door, PHP, MySQL, Volt-ADC (proxy), Envoy.
 
-Seguridad: SSL/TLS (DigiCert), HSTS, Content Security Policy (CSP), X-Frame-Options, X-Content-Type-Options, X-XSS-Protection.
+- Seguridad: SSL/TLS (DigiCert), HSTS, Content Security Policy (CSP), X-Frame-Options, X-Content-Type-Options, X-XSS-Protection.
 
-Frontend: Bootstrap, Parallax.js, GSAP, Lightbox, Infinite Scroll, Isotope, Open Graph.
+- Frontend: Bootstrap, Parallax.js, GSAP, Lightbox, Infinite Scroll, Isotope, Open Graph.
 
-CMS: WordPress (con Yoast SEO, Super Cache), Magento (plataforma e-commerce interna).
+- CMS: WordPress (con Yoast SEO, Super Cache), Magento (plataforma e-commerce interna).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
